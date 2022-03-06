@@ -1,3 +1,16 @@
+http://lukoil.com
+https://www.gazprom.ru
+http://nlmk.com
+http://tektorg.ru
+
+https://scr.online.sberbank.ru/api/fl/idgib-w-3ds
+https://3dsec.sberbank.ru/mportal3/auth/login
+https://acs1.sbrf.ru
+
+https://ddos-guard.net/ru
+https://stormwall.pro/
+https://qrator.net/ru/
+https://solidwall.ru/
 
 https://iecp.ru/ep/ep-verification
 https://iecp.ru/ep/uc-list
@@ -106,12 +119,10 @@ https://minsknews.by/
 https://zarya.by/
 https://grodnonews.by/
 
-https://shop-rt.com
 https://ria.ru
 https://gazeta.ru
 https://kp.ru
 https://riafan.ru
-https://pikabu.ru
 https://kommersant.ru
 https://mk.ru
 https://yaplakal.com
@@ -123,20 +134,6 @@ https://mvd.gov.ru/
 https://pwd.wto.economy.gov.ru/
 https://stroi.gov.ru/
 https://proverki.gov.ru/
-
-https://www.vegabank.ru/
-https://www.handybank.ru/
-https://www.creditural.ru/
-https://www.uralsibbank.ru/
-https://www.ns-bank.ru/
-https://www.dalena.ru/
-https://www.bankelita.ru/
-https://www.ritzbank.ru/
-https://www.alfabank.ru/
-https://www.spiritbank.ru/
-https://www.app.open.ru
-https://www.online.open.ru
-https://www.vladprombank.ru/
 
 https://www.gazprom.ru/ 
 https://lukoil.ru 
